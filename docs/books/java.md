@@ -69,7 +69,7 @@
 ### 面试
 
 1.  **[《JavaGuide面试突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)** ：我的75k+ star的开源项目 [JavaGuide ](https://github.com/Snailclimb/JavaGuide) 转为面试浓缩而成的版本，不光提供了PDF版本（我的公众号JavaGuide后台回复：“面试突击”即可获取），在线阅读版本：[https://snailclimb.gitee.io/javaguide-interview/](https://snailclimb.gitee.io/javaguide-interview/)。
-2. **[《Offer来了：Java面试核心知识点精讲》](https://book.douban.com/subject/34872163/)** : 这本书基本概括了Java程序员面试必备知识点，可以拿来准备Java面试或者夯实基础。不过，我还是更推荐我的 [JavaGuide](https://github.com/Snailclimb/JavaGuide) 和 **[《JavaGuide面试突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)**  ，两者配合起来学习，真香！
+2. **[《Offer来了：Java面试核心知识点精讲》](https://book.douban.com/subject/34872163/)** :   这本书基本概括了Java程序员面试必备知识点，可以拿来准备Java面试或者夯实基础。不过，我还是更推荐我的 [JavaGuide](https://github.com/Snailclimb/JavaGuide) 和 **[《JavaGuide面试突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)**  ，两者配合起来学习，真香！
 
 ## 网络
 
